@@ -119,7 +119,7 @@ $app->post('/createuser', function (Request $request, Response $response) {
         ->withStatus(422);
 });
 $app->post('/test', function(Request $request, Response $response){
-echo 'test berhasil';
+echo 'test berhasil servernyaaa';
 });
 
 $app->post('/userlogin', function (Request $request, Response $response) {
