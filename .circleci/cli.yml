@@ -1,0 +1,3 @@
+host: https://circleci.com
+endpoint: graphql-unstable
+token: 4c6d74f434966706513853502d19236ca33bcbcc
